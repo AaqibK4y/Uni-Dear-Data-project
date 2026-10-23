@@ -1,2 +1,2 @@
 # Uni Dear Data project
-Create data visualisation of Marvel/DC characters
+Create data visualisation of which perfume i wear most
